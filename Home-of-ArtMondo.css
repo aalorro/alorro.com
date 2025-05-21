@@ -360,6 +360,7 @@
   background-repeat: no-repeat;
   background-image: url("images/percuuso-moshed-05-17-18-52-57-784-ezgif.com-optimize.gif");
   background-size: cover;
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -367,10 +368,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-3 {
-    background-position: 50% 50%;
-  }
-
   .u-section-3 .u-sheet-1 {
     min-height: 400px;
   }
