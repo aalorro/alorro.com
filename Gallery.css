@@ -435,4 +435,6 @@
     width: 25px;
     height: 25px;
   }
+}a.pswp__share--download { 
+display: none; 
 }

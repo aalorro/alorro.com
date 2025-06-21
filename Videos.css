@@ -417,4 +417,6 @@
   border-style: solid !important;
   border-width: 0px !important;
   border-color: transparent !important;
+}a.pswp__share--download { 
+display: none; 
 }
